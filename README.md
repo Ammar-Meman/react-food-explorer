@@ -1,6 +1,10 @@
-# React + Vite
+# react-food-explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application built with Vite that integrates food API and features a responsive card layout.
+
+## Tech Stack
+
+This project uses React + Vite with HMR and ESLint rules.
 
 Currently, two official plugins are available:
 
